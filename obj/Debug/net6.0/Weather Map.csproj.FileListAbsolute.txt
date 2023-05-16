@@ -1,0 +1,17 @@
+C:\Users\Ja\repos\Weather Map\bin\Debug\net6.0\Weather Map.exe
+C:\Users\Ja\repos\Weather Map\bin\Debug\net6.0\Weather Map.deps.json
+C:\Users\Ja\repos\Weather Map\bin\Debug\net6.0\Weather Map.runtimeconfig.json
+C:\Users\Ja\repos\Weather Map\bin\Debug\net6.0\Weather Map.dll
+C:\Users\Ja\repos\Weather Map\bin\Debug\net6.0\Weather Map.pdb
+C:\Users\Ja\repos\Weather Map\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.csproj.AssemblyReference.cache
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.AssemblyInfoInputs.cache
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.AssemblyInfo.cs
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.csproj.CoreCompileInputs.cache
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.csproj.CopyComplete
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.dll
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\refint\Weather Map.dll
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.pdb
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\Weather Map.genruntimeconfig.cache
+C:\Users\Ja\repos\Weather Map\obj\Debug\net6.0\ref\Weather Map.dll
