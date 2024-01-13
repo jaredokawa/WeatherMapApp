@@ -6,11 +6,12 @@ Welcome to the WeatherMap console application! This program enables users to eff
 
 ## Installation and Setup
 
-Clone this repository to your local machine.
-Ensure you have .NET Core installed.
-Open the project in your preferred IDE.
-Run the application to start exploring weather information for your desired city.
-Usage and Examples
+1. Clone this repository to your local machine.
+2. Ensure you have .NET Core installed.
+3. Open the project in your preferred IDE.
+4. Run the application to start exploring weather information for your desired city.
+
+## Usage and Examples
 Upon launching the WeatherMap program, follow the prompts to input your API key and the city you want to retrieve weather information for. The console will then display comprehensive weather details, providing you with valuable insights into current weather conditions.
 
 ## Documentation and Support
