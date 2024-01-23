@@ -14,10 +14,10 @@ Welcome to the WeatherMap console application! This program enables users to eff
 ## Usage and Examples
 Upon launching the WeatherMap program, follow the prompts to input your API key and the city you want to retrieve weather information for. The console will then display comprehensive weather details, providing you with valuable insights into current weather conditions.
 
-## Documentation and Support
+### Documentation and Support
 Explore the source code for in-depth insights into the application's functionality. Should you encounter any issues or wish to contribute, please feel free to reach out or contribute to the project. Additional documentation and guides can be found within the codebase.
 
-## Licensing
+### Licensing
 This project is open-source and available under the MIT License. You are welcome to use, modify, and distribute it in accordance with the license terms.
 
 ## Acknowledgments / Contact
